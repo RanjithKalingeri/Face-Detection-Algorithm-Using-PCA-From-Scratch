@@ -47,16 +47,17 @@ If you have any question, please email Ferdinando Samaria: fs@cam-orl.co.uk
 
 ## Math behind Implimentation 
 
-watch lectures (24-29) in Introduction to Machine Learning course (link:https://www.youtube.com/watch?v=37iY5y-x_jY&list=PLFWlHcAOSQbrYzwTRTyoOiwjNjyCc_J1i) provided by Prof GC Nandi (Professor at IIIT Allahabad) 
+1. watch lectures (42 - 44) in Introduction to Machine Learning course (link:https://www.youtube.com/watch?v=37iY5y-x_jY&list=PLFWlHcAOSQbrYzwTRTyoOiwjNjyCc_J1i) provided by Prof GC Nandi (Professor at IIIT Allahabad) 
+2. Follow This GFG link : https://www.geeksforgeeks.org/ml-face-recognition-using-eigenfaces-pca-algorithm/
 
 ### -------------------------------------------------------------------------------------------------------
-## project Name :	           Spam and Ham Classifier Implimentation From Scratch Using Three Models of Navie Bayes Classifier
+## project Name :	         Face Detection Algorithm Using Principle Component Analysis in Python Programming Language From Scratch
 ## Developer Name :	         Ranjith Kalingeri - 9182522753 - ranji.iitb@gmail.com - doing MTECH in CS in IIIAllahabad as of 02-06-2021. 
-## Upload Date :	           02-06-2021
+## Upload Date :	         03-06-2021
 ## project Platform :        Python
 ## Programming Language :    Python
-## IDE Tool :	               Google Collab
-## DataSet :	               Spam and Ham Messeges From My Personal Mail Box
-## project Type :	           Machine Learning Application -  Navie Bayes Classifier 
+## IDE Tool :	               Jupitor Note Book
+## DataSet :	               The ORL face database
+## project Type :	           Machine Learning Application -  Principle Component Analysis
 ## Operating system :        windows 10 
 ## Licence          :        It is My personal project and I am opensourcing it. Feel free to download, add more features and send pull request.
